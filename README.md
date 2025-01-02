@@ -17,8 +17,8 @@ Before you begin, make sure you have the following installed on your machine:
 If you haven’t done so already, clone the project from GitHub (or download the source files):
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/DimitriTedom/STS_Paws.git
+cd STS_Paws
 ```
 
 ### 2. Install dependencies
